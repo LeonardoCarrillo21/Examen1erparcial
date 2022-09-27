@@ -33,7 +33,7 @@ public class Pyme {
      */
     public void seleccionarReceptor() {
         // TODO implement here
-        return null;
+        
     }
 
     /**
@@ -47,8 +47,9 @@ public class Pyme {
     /**
      * 
      */
-    public void Operation1() {
+    public void getNombre() {
         // TODO implement here
+        
     }
 
 }

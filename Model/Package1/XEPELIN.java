@@ -5,12 +5,12 @@ import java.util.*;
 /**
  * 
  */
-public class XEPELIN {
+public class Xepelin {
 
     /**
      * Default constructor
      */
-    public XEPELIN() {
+    public Xepelin() {
     }
 
     /**
@@ -33,7 +33,7 @@ public class XEPELIN {
      */
     public void buscarReceptor() {
         // TODO implement here
-        return null;
+       
     }
 
     /**
@@ -41,7 +41,7 @@ public class XEPELIN {
      */
     public void solicitarPagoAReceptor() {
         // TODO implement here
-        return null;
+     
     }
 
     /**
@@ -49,7 +49,7 @@ public class XEPELIN {
      */
     public void notificarPyme() {
         // TODO implement here
-        return null;
+      
     }
 
 }

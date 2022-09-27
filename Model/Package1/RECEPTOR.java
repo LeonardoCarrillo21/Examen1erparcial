@@ -5,12 +5,12 @@ import java.util.*;
 /**
  * 
  */
-public class RECEPTOR {
+public class Receptor {
 
     /**
      * Default constructor
      */
-    public RECEPTOR() {
+    public Receptor() {
     }
 
     /**
@@ -33,6 +33,11 @@ public class RECEPTOR {
      */
     public boolean aprovarTransaccion() {
         // TODO implement here
+        if(cuenta==123){
+
+            return true;
+
+        }
         return false;
     }
 
@@ -41,7 +46,7 @@ public class RECEPTOR {
      */
     public void notificar() {
         // TODO implement here
-        return null;
+        
     }
 
     /**
@@ -49,7 +54,7 @@ public class RECEPTOR {
      */
     public void corroborarDatosBancarios() {
         // TODO implement here
-        return null;
+        
     }
 
 }
