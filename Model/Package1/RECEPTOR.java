@@ -33,7 +33,7 @@ public class Receptor {
      */
     public boolean aprovarTransaccion() {
         // TODO implement here
-        if(cuenta==123){
+        if(cuenta== 123){
 
             return true;
 
